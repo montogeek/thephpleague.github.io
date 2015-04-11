@@ -30,6 +30,14 @@ packages:
         seeking_lead: 'Seeking Lead'
     footnote: 'a work-in-progress package'
     existing:
+        -   name: 'BooBoo'
+            repo: 'booboo'
+            website: 'http://booboo.thephpleague.com'
+            complete: 'true'
+            description: 'Because everybody makes mistakes'
+            author:
+                name: 'Brandon Savage'
+                username: 'brandonsavage'
         -   name: 'CLImate'
             repo: 'climate'
             website: 'http://climate.thephpleague.com'
@@ -54,6 +62,14 @@ packages:
             author:
                 name: 'Colin O''Dell'
                 username: 'colinodell'
+        -   name: 'Container'
+            repo: 'container'
+            website: 'http://container.thephpleague.com'
+            complete: 'true'
+            description: 'Fast and intuitive dependency injection container'
+            author:
+                name: 'Phil Bennett'
+                username: 'philipobenito'
         -   name: 'CSV'
             repo: 'csv'
             website: 'http://csv.thephpleague.com'
@@ -69,7 +85,7 @@ packages:
             description: 'Event package for your app and domain'
             author:
                 name: 'Frank de Jonge'
-                username: 'FrenkyNet'
+                username: 'frankdejonge'
         -   name: 'Factory Muffin'
             repo: 'factory-muffin'
             website: 'http://factory-muffin.thephpleague.com'
@@ -85,7 +101,7 @@ packages:
             description: 'Abstraction for local and remote filesystems'
             author:
                 name: 'Frank de Jonge'
-                username: 'FrenkyNet'
+                username: 'frankdejonge'
         -   name: 'Fractal'
             repo: 'fractal'
             website: 'http://fractal.thephpleague.com'
@@ -102,6 +118,14 @@ packages:
             author:
                 name: 'Antoine Corcy'
                 username: 'toin0u'
+        -   name: 'Glide'
+            repo: 'glide'
+            website: 'http://glide.thephpleague.com'
+            complete: 'true'
+            description: 'HTTP based image manipulations'
+            author:
+                name: 'Jonathan Reinink'
+                username: 'reinink'
         -   name: 'Monga'
             repo: 'monga'
             website: 'https://github.com/thephpleague/monga'
@@ -166,6 +190,14 @@ packages:
             author:
                 name: 'Jonathan Reinink'
                 username: 'reinink'
+        -   name: 'Route'
+            repo: 'route'
+            website: 'http://route.thephpleague.com'
+            complete: 'true'
+            description: 'Router and Dispatcher built on FastRoute'
+            author:
+                name: 'Phil Bennett'
+                username: 'philipobenito'
         -   name: 'Shunt'
             repo: 'shunt'
             website: 'https://github.com/thephpleague/shunt'
@@ -206,6 +238,14 @@ packages:
             author:
                 name: 'Marc Qualie'
                 username: 'marcqualie'
+        -   name: 'Tactician'
+            repo: 'tactician'
+            website: 'http://tactician.thephpleague.com/'
+            complete: 'false'
+            description: 'A simple, flexible command bus'
+            author:
+                name: 'Ross Tuck'
+                username: 'rosstuck'
         -   name: 'URL'
             repo: 'url'
             website: 'http://url.thephpleague.com'
